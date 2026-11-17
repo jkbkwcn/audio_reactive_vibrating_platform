@@ -66,7 +66,4 @@ This project represents a complete product development cycle, requiring integrat
 
 ## Short Presentation
 
-<video width="640" controls>
-  <source src="./img/platform_presentation.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/c167e0bf-ab05-4b39-b470-8a2112a0e94a
